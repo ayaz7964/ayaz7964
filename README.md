@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Ayaz Hussain
-**A passionate Cloud Engineer || Software Enginner || Full Stack Developer**
+**A passionate  Full Stack Developer || Java & Python Programmer || Database Design & API  Integration Expert ||
+ AI/ML & Image Processing Enthusiast || Data Structures &  OOP Specialist || Software Enginner**
 
 Email Me 👉 ✉️ **ayazhussain.cs@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
