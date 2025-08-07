@@ -4,7 +4,7 @@
 
 Email Me 👉 ✉️ **ayazhussain.cs@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Flutter Catalog Projet 
+- 🔭 **I’m currently working on:** Flutter Catalog Project 
 - 🌱 **I’m currently learning:** Mobile Application Development
 - 👯 **I’m looking to collaborate on:** Full Stack Developer
 - 🤔 **I’m looking for help with:** Block Chain Development
