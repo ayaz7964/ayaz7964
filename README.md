@@ -4,7 +4,7 @@
 
 📍 Pakistan | 🌍 Open to **Remote & International Roles**
 - 📧 **[ayazhussain.cs@gmail.com](mailto:ayazhussain.cs@gmail.com)**
-- 🌐 Portfolio: **[https://ayazhussain.me](https://ayazhussain.me)** *(In Progress)*
+- 🌐 Portfolio: **[https://ayazhussain.me](https://ayazhussain.me)** 
 - 💼 LinkedIn: [https://www.linkedin.com/in/ayaz-hussain-cs/](https://www.linkedin.com/in/ayaz-hussain-cs/)
 - 💻 GitHub: [https://github.com/ayaz7964](https://github.com/ayaz7964)
 
@@ -16,7 +16,7 @@ AI-driven **Full Stack Software Engineer** with strong expertise in **Deep Learn
 
 Demonstrates rare alignment of **software engineering fundamentals + applied AI research + leadership experience**. Actively involved in hackathons, open-source projects, and AI community initiatives.
 
-> ⭐ *Recruiter Assessment:* Ayaz is **hire-ready** for **AI Engineer, Full Stack Developer, or Software Engineer** roles in fast-growing startups and global teams.
+
 
 ---
 
@@ -82,6 +82,8 @@ Database Design · System Design (SRS/SDS) · Software Testing
 * Promoted AI education and peer mentoring
 
 ---
+
+
 
 ## 🧠 Key AI & Software Projects
 
