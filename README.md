@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 Professional Summary (Recruiter View)
+## 🧠 Professional Summary 
 
 AI-driven **Full Stack Software Engineer** with strong expertise in **Deep Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and scalable web & mobile systems**. Proven ability to design and deploy **production-ready applications** using **MERN, React Native, Flutter, Python, Java**, and modern **cloud platforms**.
 
@@ -20,7 +20,7 @@ Demonstrates rare alignment of **software engineering fundamentals + applied AI 
 
 ---
 
-## 🧩 Technical Skills (ATS-Optimized & Structured)
+## 🧩 Technical Skills 
 
 ### 👨‍💻 Programming Languages
 
@@ -153,8 +153,4 @@ Database Design · System Design (SRS/SDS) · Software Testing
 
 ---
 
-### 💬 Recruiter Recommendation
 
-> *Ayaz Hussain is a high-potential AI-driven software engineer with strong execution skills, leadership mindset, and production-level experience. Strongly recommended for global remote roles.*
-
-[![](https://visitcount.itsvg.in/api?id=ayaz7964\&icon=0\&color=0)](https://visitcount.itsvg.in)
